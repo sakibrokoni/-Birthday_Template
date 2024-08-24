@@ -1,0 +1,13 @@
+Follow the instruction to edit the site .
+
+Instruction - 1
+Open file index.html 
+Change the Name according to your favourite person name in 
+"LINE"  8,22
+In 55 Line add the Image of Your Person
+
+Instruction - 2 
+customize.json  file according to your wish
+
+Most Important part 
+"imagePath": "img/" of custozime should the same photo of index.html file "line 55"
